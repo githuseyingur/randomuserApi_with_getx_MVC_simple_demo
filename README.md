@@ -1,5 +1,5 @@
 # Flutter randomuser.me API with GetX
-(Dio, auto_route, search bar)
+(Dio, auto_route, search bar) <br>
 Two screens : list_page.dart and detail_page.dart
 
 <img src="https://user-images.githubusercontent.com/120099096/234484633-023331c9-1cf3-46b2-86f0-aa5a04652533.png"  width="400">
